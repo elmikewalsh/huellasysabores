@@ -16,7 +16,7 @@
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<generator>https://wordpress.org/?v=5.0.1</generator>
 	<item>
 		<title>Cocina cordillera: Huellas y sabores de mujeres en la cordillera.</title>
 		<link>/videos/cocina-cordillera-huellas-y-sabores-de-mujeres-en-la-cordillera/</link>
@@ -51,12 +51,3 @@
 			</item>
 	</channel>
 </rss>
-
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-Object Caching 1798/1822 objects using disk
-Page Caching using disk: enhanced
-Minified using disk
-Database Caching 1/8 queries in 0.094 seconds using disk
-
- Served from: 127.0.0.1 @ 2018-12-10 20:55:25 by W3 Total Cache -->

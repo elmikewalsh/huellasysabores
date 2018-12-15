@@ -16,7 +16,7 @@
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<generator>https://wordpress.org/?v=5.0.1</generator>
 	<item>
 		<title>Extra &#8211; La Fotografía</title>
 		<link>/noticias/la-fotografia/</link>
@@ -276,12 +276,3 @@
 			</item>
 	</channel>
 </rss>
-
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-Object Caching 3336/3477 objects using disk
-Page Caching using disk: enhanced
-Minified using disk
-Database Caching 3/23 queries in 0.059 seconds using disk
-
- Served from: 127.0.0.1 @ 2018-12-10 20:54:46 by W3 Total Cache -->
